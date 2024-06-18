@@ -9,11 +9,11 @@ export const metadata: Metadata = {
     default: "chronark.com",
     template: "%s | chronark.com",
   },
-  description: "Co-founder of unkey.dev and founder of planetfall.io",
+  description: "Co-fundador de unkey.dev e fundador do planetfall.io",
   openGraph: {
     title: "chronark.com",
     description:
-      "Co-founder of unkey.dev and founder of planetfall.io",
+      "Co-fundador de unkey.dev e fundador do planetfall.io",
     url: "https://chronark.com",
     siteName: "chronark.com",
     images: [
@@ -38,7 +38,7 @@ export const metadata: Metadata = {
     },
   },
   twitter: {
-    title: "Chronark",
+    title: "Matteo",
     card: "summary_large_image",
   },
   icons: {
